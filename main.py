@@ -5,7 +5,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 # ============================
 # НАСТРОЙКИ — ЗАПОЛНИ СЮДА
 # ============================
-BOT_TOKEN = "СЮДА_ВСТАВЬ_ТОКЕН_БОТА"   # Получить у @BotFather
+BOT_TOKEN = "8020218518:AAF3DIBLNFCP0YwRbUzDqiOgRPsdwwtAwB8"   # Получить у @BotFather
 ADMIN_ID = 8318310777                    # Telegram ID админа
 # ============================
 
